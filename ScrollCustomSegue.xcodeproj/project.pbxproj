@@ -18,6 +18,7 @@
 		AAE3F4BA1B7AE288007F6DB9 /* RedViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AAE3F4B91B7AE288007F6DB9 /* RedViewController.m */; };
 		AAE3F4BD1B7AE293007F6DB9 /* BlueViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AAE3F4BC1B7AE293007F6DB9 /* BlueViewController.m */; };
 		AAE5C60E1B8DFA7B0059D7A6 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = AAE5C60D1B8DFA7B0059D7A6 /* README.md */; };
+		AAE5C6101B8DFBD00059D7A6 /* scrollsegue.gif in Resources */ = {isa = PBXBuildFile; fileRef = AAE5C60F1B8DFBD00059D7A6 /* scrollsegue.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		AAE3F4BB1B7AE293007F6DB9 /* BlueViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BlueViewController.h; sourceTree = "<group>"; };
 		AAE3F4BC1B7AE293007F6DB9 /* BlueViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BlueViewController.m; sourceTree = "<group>"; };
 		AAE5C60D1B8DFA7B0059D7A6 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		AAE5C60F1B8DFBD00059D7A6 /* scrollsegue.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = scrollsegue.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 		AAE3F4881B7ACCE1007F6DB9 /* CustomSegue */ = {
 			isa = PBXGroup;
 			children = (
+				AAE5C60F1B8DFBD00059D7A6 /* scrollsegue.gif */,
 				AAE5C60D1B8DFA7B0059D7A6 /* README.md */,
 				AAE3F48D1B7ACCE1007F6DB9 /* AppDelegate.h */,
 				AAE3F48E1B7ACCE1007F6DB9 /* AppDelegate.m */,
@@ -182,6 +185,7 @@
 				AAE3F4951B7ACCE1007F6DB9 /* Main.storyboard in Resources */,
 				AAE3F49A1B7ACCE1007F6DB9 /* LaunchScreen.xib in Resources */,
 				AAE3F4971B7ACCE1007F6DB9 /* Images.xcassets in Resources */,
+				AAE5C6101B8DFBD00059D7A6 /* scrollsegue.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
